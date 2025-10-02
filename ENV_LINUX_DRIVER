@@ -3,3 +3,4 @@ export LINUX_DRIVER_SUBSPATH=/usr/src/debug/display7/1.1-r0/
 export LINUX_DRIVER_KO_HOSTDIR=/home/debian/repos/display7/
 export LINUX_DRIVER_NAME=display7
 export LINUX_DRIVER_UPLOAD_PATH=/lib/modules/6.12.28-stable-debug/updates/
+export LINUX_DRIVER_PROBE_FUNC=display7_probe
